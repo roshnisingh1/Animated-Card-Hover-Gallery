@@ -16,7 +16,7 @@ Each card includes hover interactions like lift-up motion, smooth image zoom, an
 - Tailwind CSS
 
 # Clone this repo
-git clone https://github.com/your-username/animated-card-gallery.git
+git clone https://github.com/roshnisingh1/animated-card-gallery.git
 
 # Open index.html in a browser
 
