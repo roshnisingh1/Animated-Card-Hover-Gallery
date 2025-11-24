@@ -20,4 +20,4 @@ Each card includes hover interactions like lift-up motion, smooth image zoom, an
 
 
 ## 📸 Screenshot / Preview
-![Preview](Animated Card Hover Gallery/assets/preview.png)
+![Preview](preview.png)
